@@ -1,0 +1,14 @@
+name: Cams
+version: 1.0.0
+main: eu.ansquare.cams.Cams
+description: Security cameras. ReadyRoad here it is.
+author: SasaElele
+website: https://papermc.io
+api-version: 1.19
+commands:
+  camplacer:
+    description: Gives the cam placer
+    usage: "Usage: /<command>"
+  cams:
+   description: Gives the cam shower
+   usage: "Usage: /<command>"
