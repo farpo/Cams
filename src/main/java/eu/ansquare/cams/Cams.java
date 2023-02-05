@@ -64,4 +64,5 @@ public class Cams extends JavaPlugin implements Listener {
             }
         }
     }
+
 }
